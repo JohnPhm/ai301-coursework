@@ -3,7 +3,7 @@ Rubric: Is this a good first issue?
 | Check | Evidence | Pass Condition | Weight |
 | --- | --- | --- | --- | 
 | Human Maintenance | 
-| Active Project | 
+| Active Project | Community behind project is alive with contributors and maintainers working together; recent last push date; recent releases | The repository is not archived and remains open. There are contributors contributing to the project within a month's time. | Required | 
 | Bounded Contribution | 
 | Available Work | 
 
